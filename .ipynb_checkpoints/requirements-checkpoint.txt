@@ -21,6 +21,7 @@ pytz==2022.1
 six==1.16.0
 tenacity==8.0.1
 Werkzeug==2.0.3
+setuptools==0.7.3
 
 
 # Required for deployment on Heroku
